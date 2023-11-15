@@ -5,7 +5,7 @@
 <br>
 
 # our project language
-![deeptudy's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deeptudy&theme=defult)
+![deeptudy's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deeptudy/.github&theme=defult)
 
 # our stats
 organaizion은 처음이라 모르겠슴 포기
