@@ -7,8 +7,7 @@
 # our project language
 ![deeptudy's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deeptudy&theme=defult)
 # our stats
-[![deeptudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=deeptudy&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
+[![deeptudy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 # our stack
