@@ -9,7 +9,7 @@
 
 # our stats
 organaizion은 처음이라 모르겠슴 포기
-[![deeptudy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=.github/profile/deeptudy&layout=compact)](https://github.com/deeptudy/github-readme-stats)
+[![deeptudy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deeptudy&layout=compact)](https://github.com/deeptudy/github-readme-stats)
 
 ---
 
