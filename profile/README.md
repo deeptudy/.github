@@ -6,7 +6,7 @@
 
 # our project language
 ![deeptudy's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deeptudy&theme=defult)
-# our stats
+# our stats organaizion은 처음이라 모르겠슴 포기
 [![deeptudy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deeptudy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
